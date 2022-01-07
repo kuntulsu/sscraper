@@ -71,7 +71,7 @@ class Tokopedia:
             return raw_data
         else:
             return False
-class Shoppee:
+class Shopee:
     pass
 
 class Lazada:
